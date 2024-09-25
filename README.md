@@ -12,9 +12,6 @@ This project analyzes bank customer churn, identifying key factors influencing c
 - [Data Preprocessing](#data-preprocessing)
 - [Classification Modelling](#classification-modelling)
 - [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [License](#license)
 
 ## Introduction
 Customer churn is a critical issue for banks, impacting profitability and growth. This project uses a bank customer churn dataset to understand the factors driving customer exits and build predictive models to prevent churn. The dataset includes demographic details like age and gender, financial metrics like credit score and account balance, and engagement features like tenure and product usage. By analyzing this data, we aim to improve customer retention strategies.
