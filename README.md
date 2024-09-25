@@ -39,6 +39,8 @@ The dataset consists of 10,002 entries and 14 columns:
 | EstimatedSalary | Customer's estimated salary          | float64   |
 | Exited          | Whether the customer has exited the bank (1 = Yes, 0 = No) | int64     |
 
+For more information about the data [Here](https://www.kaggle.com/datasets/shubhammeshram579/bank-customer-churn-prediction/data)
+
 ## Exploratory Data Analysis (EDA)
 This section performs a thorough exploration of the data to uncover patterns and trends. We aim to understand the relationships between various features like age, geography, balance, credit score, and tenure, and how they correlate with customer churn.
 
